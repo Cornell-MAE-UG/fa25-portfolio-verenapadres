@@ -1,16 +1,16 @@
 ---
 layout: default
-title: <Your Name>
+title: Verena Padres
 ---
 
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/verena.jpg" | relative_url }}){: class="profile-image"}
 
  
-My name is {{ site.name }}, and I am [your pitch paragraph about your passions, knowledge and interestst.] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+My name is {{ site.name }}, and I am a senior studying Mechanical Engineering at Cornell University. My internships and experiences at Cornell so far have been focused on space and space exploration, as that is the career I want to pursue full-time. I am also interested in Aeronautics, which I am gaining more experience with through my aerospace-focused coursework at Cornell.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+My experiences so far have included three internships, plus extensive research work as a part of the Space Systems Design Studio research lab under Professor Mason Peck. My first internship was over the summer of 2023, where I worked at NASA-JPL as a Spacecraft Mechanical Engineer. As an intern, I was a member of the Separations team that was in the process of developing and testing the hardware needed for Entry, Descent, and Landing of the Mars Sample Return Lander. In the summers of 2024 and 2025, I worked at SpaceX on the Propulsion Components team for the Dragon Vehicle. While at Cornell, I led the Sailing to the Stars team, which designed hardware to test free-flying light sails, that launched to the International Space Station on August 1st, 2025.
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
