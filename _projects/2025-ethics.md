@@ -2,7 +2,7 @@
 layout: project
 title: Boeing 737 Max Ethics Analysis
 description: An analysis of the Boeing 737 Max disaster from an ethics perspective
-technologies: [Ethics, MAE ASME Canons]
+technologies: [Ethics, MAE-ASME Canons]
 image: /assets/images/brain-with-gears.png
 ---
 
